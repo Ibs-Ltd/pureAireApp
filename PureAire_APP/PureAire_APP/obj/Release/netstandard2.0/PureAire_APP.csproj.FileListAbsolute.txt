@@ -1,0 +1,90 @@
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.deps.json
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csprojAssemblyReference.cache
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\IAQMonitorPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\MonitorPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfoInputs.cache
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfo.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csproj.CoreCompileInputs.cache
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.deps.json
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csprojAssemblyReference.cache
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\IAQMonitorPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfoInputs.cache
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfo.cs
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csproj.CoreCompileInputs.cache
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.deps.json
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csprojAssemblyReference.cache
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\IAQMonitorPage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfoInputs.cache
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfo.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csproj.CoreCompileInputs.cache
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with Timer_Final\PureAire_APP_with Timer_Final\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.deps.json
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\IAQMonitorPage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\SetupDevicePage.xaml.g.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfoInputs.cache
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfo.cs
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csproj.CoreCompileInputs.cache
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\N.Marin\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csprojAssemblyReference.cache
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.deps.json
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\bin\Release\netstandard2.0\PureAire_APP.pdb
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csprojAssemblyReference.cache
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\IAQMonitorPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\Views\SetupDevicePage.xaml.g.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfoInputs.cache
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.AssemblyInfo.cs
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.csproj.CoreCompileInputs.cache
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\ref\PureAire_APP.dll
+C:\Users\nmari\Desktop\PureAire_APP_with ESPWifi\PureAire_APP\PureAire_APP\obj\Release\netstandard2.0\PureAire_APP.pdb

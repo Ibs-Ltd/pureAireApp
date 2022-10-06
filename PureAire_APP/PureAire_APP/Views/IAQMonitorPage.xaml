@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:PureAire_APP.ViewModels"
+             x:Class="PureAire_APP.Views.IAQMonitorPage"
+             Title="{Binding Title}"
+             BackgroundColor="#FF2A2A3D">
+
+    <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Connect" Command="{Binding ConnectDB}"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.BindingContext>
+        <vm:IAQMonitorViewModel />
+    </ContentPage.BindingContext>
+    
+
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>            
+            
+
+        <StackLayout Orientation="Vertical" Grid.Row="0" Padding="0,0,0,0">
+               <Ellipse WidthRequest="140" HeightRequest="140" VerticalOptions="StartAndExpand" Stroke="#FF0FB3CE" StrokeThickness="6" Aspect="Uniform" Margin="0,20,0,0"/>
+               <Label Text="{Binding PM25}" TextColor="White"
+                VerticalOptions="CenterAndExpand" FontSize="Header" FontAttributes="Bold"
+                HorizontalOptions="CenterAndExpand" Margin="0,-150,0,0"/>
+                <Label Text="PM2.5" TextColor="LightGray"
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="CenterAndExpand" Margin="0,-30,0,50"/>
+                <Ellipse WidthRequest="200" HeightRequest="220" VerticalOptions="StartAndExpand" Stroke="#FF0FB3CE" StrokeThickness="6" Aspect="Uniform" Margin="0,-40,0,0"/>
+                <Label Text="{Binding VOC}" TextColor="White"
+                VerticalOptions="CenterAndExpand" FontSize="Header" FontAttributes="Bold"
+                HorizontalOptions="CenterAndExpand" Margin="0,-185,0,0"/>
+                <Label Text="VOC" TextColor="LightGray"
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="CenterAndExpand" Margin="0,0,0,50" />
+                <Ellipse WidthRequest="180" HeightRequest="200" VerticalOptions="StartAndExpand" Stroke="#FF0FB3CE" StrokeThickness="6" Aspect="Uniform" Margin="0,-35,0,0"/>
+                <Label Text="{Binding CO2}" TextColor="White"
+                VerticalOptions="CenterAndExpand" FontSize="Header" FontAttributes="Bold"
+                HorizontalOptions="CenterAndExpand" Margin="0,-180,0,0"/>
+                <Label Text="CO2" TextColor="LightGray"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" Margin="0,0,0,50" FontSize="Large" />
+        </StackLayout>
+            <StackLayout Orientation="Horizontal" Grid.Row="0" Margin="0,75,0,45" VerticalOptions="Start">
+                <Label Text="{Binding TEMP}" FontAttributes="Bold" TextColor="White"
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="CenterAndExpand" Margin="0,0,200,0"/>
+                <Label Text="{Binding HUMID}" FontAttributes="Bold" TextColor="White"
+                VerticalOptions="CenterAndExpand" FontSize="Large"
+                HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Grid.Row="0" Margin="0,100,0,30" VerticalOptions="Start">
+                <Label Text="Temp" TextColor="LightGray"
+                VerticalOptions="CenterAndExpand" FontSize="Default"
+                HorizontalOptions="CenterAndExpand" Margin="0,0,200,0"/>
+                <Label Text="Humidity" TextColor="LightGray"
+                VerticalOptions="CenterAndExpand" FontSize="Default"
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

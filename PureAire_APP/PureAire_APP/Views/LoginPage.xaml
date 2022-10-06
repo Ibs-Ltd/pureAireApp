@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:viewmodels="clr-namespace:PureAire_APP.ViewModels"
+             x:DataType="viewmodels:LoginViewModel"
+             mc:Ignorable="d"
+             x:Class="PureAire_APP.Views.LoginPage"
+             BackgroundImageSource="LI_Screen.png"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Content>
+        <StackLayout Padding="10,30,10,0" VerticalOptions="StartAndExpand">
+            <Entry x:Name="GetEmail" Margin="40,30,40,0" HeightRequest="50" BackgroundColor="#FFD5D7D8" VerticalOptions="Start"/>
+            <Label Text="EMAIL" TextColor="#FF8F8D8D" Margin="40,0,0,0" FontSize="Small" />
+            <Entry x:Name="GetPsswrd" IsPassword="True" Margin="40,30,40,0" HeightRequest="50" BackgroundColor="#FFD5D7D8" VerticalOptions="Start"/>
+            <Label Text="PASSWORD" TextColor="#FF8F8D8D" Margin="40,0,0,20" FontSize="Small"/>
+
+            <Label HorizontalOptions="End" Margin="0,-45,40,0">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Forgot Password?" FontSize="Micro"
+                  TextColor="#FF0FB3CE">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding PasswordCommand}"
+                                          CommandParameter="https://xamarin.com" />
+                            </Span.GestureRecognizers>
+                        </Span>                       
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            
+            <Image Source="migro_pureaire.png" Scale=".75" Margin="0,30,0,50"/>
+            <!--<Button VerticalOptions="Center" Text="LOGIN" Command="{Binding LoginCommand}" Margin="40"/>-->
+            <Button VerticalOptions="Center" Text="LOGIN" Clicked="LoginButton_Click" Margin="40"/>
+            <Label HorizontalOptions="End" Margin="0,-45,40,0">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="New User? " TextColor="#FF8F8D8D" FontSize="Micro"/>
+                        <Span Text="Create an account" FontSize="Micro"
+                  TextColor="#FF0FB3CE">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding NewAccountCommand}"
+                                          CommandParameter="https://xamarin.com" />
+                            </Span.GestureRecognizers>
+                        </Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

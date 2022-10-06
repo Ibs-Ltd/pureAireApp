@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8hI6KUtqkzfLg78atZ5K0So3Gb89m1XwxzZT04wBOaJS2q0rTqltlregK2cYyqZhrqGstxm5P8665xhAFR6TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nmari\\Desktop\\PureAire_APP ESPWifi\\PureAire_APP\\PureAire_APP.iOS\\PureAire_APP.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nmari\\.nuget\\packages\\esptouchsmartconfigxamarin\\1.0.4\\esptouchsmartconfigxamarin.1.0.4.nupkg.sha512",
+    "C:\\Users\\nmari\\.nuget\\packages\\mysqlconnector\\1.3.9\\mysqlconnector.1.3.9.nupkg.sha512",
+    "C:\\Users\\nmari\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\nmari\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\nmari\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
